@@ -179,7 +179,7 @@ h1 {
 
 /*站内搜索样式*/
 #container #searcher {
-  background: url('../images/searchbg.gif') no-repeat;
+  background: url('searchbg.gif') no-repeat;
   width: 217px;
   height: 158px;
   right: 25px;
@@ -189,7 +189,7 @@ h1 {
 }
 
 #imageField {
-  background: orangered;
+  background:#cc0022;
   border: 1px solid orangered;
   color: white;
   border-radius: 5px;
@@ -257,7 +257,7 @@ h4 {
 }
 
 #header #search {
-	float: right;
+	
 	font-size: 14px;
 	color: #C31103;
 	font-weight: bold;
